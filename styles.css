@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+#nav-actor, #nav-quote{
+    margin: 20px 0px;
+    background-color: gray;
+    color: blue;
+}
+footer{
+    background-color: black;
+    color: white;
+}
